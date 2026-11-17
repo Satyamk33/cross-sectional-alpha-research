@@ -77,11 +77,7 @@ All plots and metrics are marked as a **synthetic demonstration**.
 5. **Synthetic fundamentals:** `earnings_yield`, `book_to_price`, and `sales_to_price` are generated once per simulated quarter and then held constant. They are not verified financial disclosures or timestamped filing surprises.
 6. **Missing real-world controls:** Corporate actions, survivorship-free universes, delisted assets, ticker mappings, industry classification history, actual borrow constraints, market-calendar gaps and capacity need research before interpreting real results.
 
-## How to describe it accurately on a resume
 
-> **Cross-Sectional Alpha Research Prototype** — Built a reproducible Python research pipeline with 50 price/volume and simulated fundamental features, walk-forward rank-IC and decile analysis, sector-/estimated-beta-neutral long-short construction, and transaction-cost modeling; demonstrated end-to-end functionality on synthetic equity data.
-
-After running on point-in-time historical equities, update the description with verified real-data coverage and actual measured performance. Avoid claiming predictive alpha or historical profits based on fictional prices.
 
 ## License
 
