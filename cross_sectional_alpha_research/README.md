@@ -83,9 +83,3 @@ All plots and metrics are marked as a **synthetic demonstration**.
 
 MIT — see `LICENSE`.
 
-## Upload to GitHub
-
-1. Create a public repository called `cross-sectional-alpha-research`.
-2. Upload the **contents** of this extracted folder (including `src/`, `data/`, `reports/`, `tests/` and `.github/`).
-3. Keep the `SYNTHETIC DEMONSTRATION` disclosure and avoid renaming the synthetic ticker labels.
-4. Verify the GitHub Actions workflow passes. The README charts are linked via relative file paths and should render automatically.
